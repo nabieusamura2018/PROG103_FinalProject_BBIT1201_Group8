@@ -1,0 +1,2 @@
+The clinic.db SQLite database file is created automatically when you run main.py.
+Backup files (backup_clinic_YYYYMMDD_HHMMSS.db) are also saved here.
