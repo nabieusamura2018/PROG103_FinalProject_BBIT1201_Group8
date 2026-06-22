@@ -111,3 +111,7 @@
 2026-06-22 08:03:17,759 - INFO - Database initialised at database/clinic.db
 2026-06-22 08:03:50,702 - INFO - User 'admin' authenticated successfully.
 2026-06-22 08:04:10,381 - INFO - Application closed.
+2026-06-22 09:37:15,504 - INFO - ============================================================
+2026-06-22 09:37:15,506 - INFO - Application starting: Community Health Clinic Queue Management System
+2026-06-22 09:37:15,529 - INFO - Database initialised at database/clinic.db
+2026-06-22 09:37:51,005 - INFO - Application closed.
